@@ -8,6 +8,11 @@ github:@githubid
 加入时间: xxxx年xx月xx日
 
 -->
+## 周锐发
+gitee:https://github.com/apodxx
+github:https://gitee.com/apodx
+加入时间: 2023年12月1日
+
 
 # 项目实习生
 
