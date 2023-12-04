@@ -14,13 +14,13 @@ oerv 实习生分为日常实习生和项目实习生。日常实习生以修复
 - 任务二：在 openEuler RISC-V 系统上通过 obs 命令行工具 osc，从源代码构建 RISC-V 版本的 coreutils。（提示首先需要在 openEuler的 OBS[<sup>什么是 OBS？</sup>](./FAQ.md#什么是-obs) 上注册账号 https://build.openeuler.openatom.cn/project/show/openEuler:Mainline:RISC-V）
 - 任务三：尝试使用 qemu user & nspawn 或者 docker 加速完成任务二
 
-任务完成的方式为在本仓库提交 pr，并在 PR 的 *Conversation* 中附上任务完成截图，在 Intern/intern_message.md 的 *日常实习生* 下中加入自己的信息（pretask 考核的一部分）。这个阶段希望实习生养成积极提问和正确提问的习惯，并且构建属于自己的工作流和环境。
+任务完成的方式为在本仓库提交 PR，并在 PR 的 *Conversation* 中附上任务完成截图，在 Intern/intern_message.md 的 *日常实习生* 下中加入自己的信息（pretask 考核的一部分）。这个阶段希望实习生养成积极提问和正确提问的习惯，并且构建属于自己的工作流和环境。
 
 ### `easywork`
 
 `easywork` 会被计算为产出，一般来说如简单升级一个包，解决一个 OBS 包构建错误都属于 `easywork`，注意 `easywork`范畴并不一定都是简单工作，某些包修复的复杂程度会很高，在作为产出计算时也会被加大权重。
 
-一个完整的 `easywork` 包括发现问题，找出解决办法，OBS工程验证，提交 pr。 mentor 会协助 PR 的合入。
+一个完整的 `easywork` 包括发现问题，找出解决办法，OBS工程验证，提交 PR。 mentor 会协助 PR 的合入。
 
 `easywork` 一般可以通过一下几种途径寻找：
 
@@ -30,7 +30,7 @@ oerv 实习生分为日常实习生和项目实习生。日常实习生以修复
 
 无论如何，在进行 `easywork` 之前最好提前声明，因为 `easywork` 是最多的工作，声明有助于避免重复性工作。
 
-完成三个 `easywork` 的实习生可以在本仓库提交 pr，将过往产出 PR 链接整理出来放在 *Conversation*，将信息从 *日常实习生* 移动到 *项目实习生* 中。
+完成三个 `easywork` 的实习生可以在本仓库提交 PR，将过往产出 PR 链接整理出来放在 *Conversation*，将信息从 *日常实习生* 移动到 *项目实习生* 中。
 
 如果在 `easywork` 的进行中，遇到重量级别问题并且产生一定进展，有可能在 mentor 的评估下帮助建立对应 issue，并转为项目实习生。
 
