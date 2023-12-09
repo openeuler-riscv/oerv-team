@@ -13,6 +13,11 @@ gitee:@apodxx
 github:@apodx
 加入时间: 2023年12月1日
 
+## 王跃翔
+gitee:@wyxaihjr
+github:@wyxhjr
+加入时间：2023年12月4日
+
 
 # 项目实习生
 
