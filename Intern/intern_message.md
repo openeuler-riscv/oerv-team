@@ -13,6 +13,11 @@ gitee:@apodxx
 github:@apodx
 加入时间: 2023年12月1日
 
+## 黄凯鑫
+gitee:@huang-kaixin666
+github:@huang-kaixin
+加入时间: 2023年12月4日
+
 
 # 项目实习生
 
