@@ -18,6 +18,12 @@ gitee:@huang-kaixin666
 github:@huang-kaixin
 加入时间: 2023年12月4日
 
+
+## 王跃翔
+gitee:@wyxaihjr
+github:@wyxhjr
+加入时间：2023年12月4日
+
 ## 章可儿
 gitee:@zke_012020
 github:@nicole01101101zke
