@@ -39,6 +39,7 @@ github:@nicole01101101zke
 
 加入时间: 2023年12月5日
 
+## 王尧勇
 gitee:@wangyaoyong
 
 github:@TriangleABCD
