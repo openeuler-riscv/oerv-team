@@ -39,6 +39,12 @@ github:@nicole01101101zke
 
 加入时间: 2023年12月5日
 
+gitee:@wangyaoyong
+
+github:@TriangleABCD
+
+加入时间: 2023年12月19日
+
 
 # 项目实习生
 
