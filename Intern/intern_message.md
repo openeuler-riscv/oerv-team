@@ -46,6 +46,14 @@ github:@menmazqj
 
 加入时间: 2023年12月18日
 
+## 王尧勇
+gitee:@wangyaoyong
+
+github:@TriangleABCD
+
+加入时间: 2023年12月19日
+
+
 # 项目实习生
 
 <!-- 项目实习生添加格式:
