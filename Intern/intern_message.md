@@ -39,6 +39,12 @@ github:@nicole01101101zke
 
 加入时间: 2023年12月5日
 
+## 郑啟嘉
+gitee:@menmazqj
+
+github:@menmazqj
+
+加入时间: 2023年12月18日
 
 # 项目实习生
 
