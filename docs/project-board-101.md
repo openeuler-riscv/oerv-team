@@ -44,3 +44,9 @@
 可以在这个页面设置 task 的 `Start Date` 和 `End Date`。找到对应的 issue 之后，在后面选择一个开始日期，然后拖动长方形末尾即可设置结束日期。
 
 默认开启了 Milestone 的 `Marker`，可以显示 Milestone 的时间节点。在 `oerv-team` 这个项目内创建带日期的 `Milestone`（例如 openEuler 24.03 LTS GA 日期为 2024-03-31）后，会自动显示在这个 Timeline 上。
+
+## FAQ
+
+### Q: 我是 Intern，我看不到这个看版？
+
+A: 在完成 pretask 之后，就会被邀请进入了，进入之后就可以看到了。
