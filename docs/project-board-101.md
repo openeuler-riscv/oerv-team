@@ -45,6 +45,8 @@
 
 默认开启了 Milestone 的 `Marker`，可以显示 Milestone 的时间节点。在 `oerv-team` 这个项目内创建带日期的 `Milestone`（例如 openEuler 24.03 LTS GA 日期为 2024-03-31）后，会自动显示在这个 Timeline 上。
 
+> 注意，如果要使用 Milestone 功能，请务必至少一个 issue 到你想展示的 Milestone 内，否则 GitHub 是不会显示空 Milestone 的。
+
 ## FAQ
 
 ### Q: 我是 Intern，我看不到这个看版？
