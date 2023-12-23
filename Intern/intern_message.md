@@ -53,6 +53,13 @@ github:@TriangleABCD
 
 加入时间: 2023年12月19日
 
+## 王睿
+gitee:@DOER_101
+
+github:@DOER6
+
+加入时间: 2023年12月18日
+
 
 # 项目实习生
 
