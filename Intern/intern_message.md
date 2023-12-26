@@ -60,6 +60,13 @@ github:@DOER6
 
 加入时间: 2023年12月18日
 
+## 孙博
+gitee:@shafeipaozi
+
+github:@shafeipaozi
+
+加入时间：2023年12月26日
+
 # 项目实习生
 
 <!-- 项目实习生添加格式:
