@@ -10,4 +10,5 @@
 
 | 软件包 | 实习生姓名@githubID |文章简介|
 |-------|-----------------|-------|
-||||
+| [rust-cbindgen](./2023.12.28-rust-cbindgen-王尧勇.md) | 王尧勇@TriangleABCD | 修包记录和提交时的一些错误记录 |
+| [WasmEngine](./2023.12.29-WasmEngine-周锐发.md) | 周锐发@apodxx | 修复wasmengine以支持riscv |
