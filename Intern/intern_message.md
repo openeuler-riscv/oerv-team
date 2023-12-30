@@ -98,6 +98,15 @@ github:@shafeipaozi
 
 邮箱: sunbo.oerv@isrc.iscas.ac.cn
 
+## 罗君
+
+gitee:@Jerry.c
+
+github:@Jer6y
+
+加入时间: 2023年12月30日
+
+邮箱: luojun.oerv@isrc.iscas.ac.cn
 
 # 项目实习生
 
