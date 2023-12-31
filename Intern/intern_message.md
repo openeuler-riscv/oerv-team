@@ -108,6 +108,16 @@ github:@Jer6y
 
 邮箱: luojun.oerv@isrc.iscas.ac.cn
 
+## 何若轻
+
+gitee:@heruoqing
+
+github:@TimePrinciple
+
+加入时间: 2023年12月31日
+
+邮箱: ruoqing@isrc.iscas.ac.cn
+
 # 项目实习生
 
 <!-- 项目实习生添加格式:
