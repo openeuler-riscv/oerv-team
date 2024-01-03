@@ -14,15 +14,6 @@ github:@apodx
 
 邮箱: ruifa.oerv@isrc.iscas.ac.cn
 
-## 黄凯鑫
-gitee:@huang-kaixin666
-
-github:@huang-kaixin
-
-加入时间: 2023年12月4日
-
-邮箱: kaixin.oerv@isrc.iscas.ac.cn
-
 ## 王跃翔
 gitee:@wyxaihjr
 
