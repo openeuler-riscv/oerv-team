@@ -1,6 +1,6 @@
 # openEuler RISC-V kanban 使用指南
 
-更新日期: 2023-12-21
+更新日期: 2024-01-04
 
 看版是为了更直观的看到有哪些任务，哪些任务被分配到哪个人了。默认会在 Default 页面以 Status 的状态分组显示。
 
@@ -12,6 +12,8 @@
  - Help wanted: 代表这项 task 已经规划完成，处于无人认领的状态。
  - Todo: 代表有人认领这项 task，但还没开始工作。
  - In Progress: 代表有人认领这项 task，并且已经有一些进展了。
+ - In Review: 代表这项 task 已经做完，需要 review。
+   - 例如，A 要修复 golang 这个包内的一些问题，在本地修复完之后向 `src-openeuler/golang` 提交了 PR。此时需要 golang sig 的 maintainer 们来审核，故此时需要将状态从 `In Progress` 修改为 `In Review`。待 PR 合并之后，再将状态设置为 `Done`。
  - Done: 代表这项 task 已经结束。
 
 ### Priority
