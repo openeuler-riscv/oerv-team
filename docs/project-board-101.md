@@ -1,6 +1,6 @@
 # openEuler RISC-V kanban 使用指南
 
-更新日期: 2023-12-21
+更新日期: 2024-01-04
 
 看版是为了更直观的看到有哪些任务，哪些任务被分配到哪个人了。默认会在 Default 页面以 Status 的状态分组显示。
 
@@ -12,6 +12,8 @@
  - Help wanted: 代表这项 task 已经规划完成，处于无人认领的状态。
  - Todo: 代表有人认领这项 task，但还没开始工作。
  - In Progress: 代表有人认领这项 task，并且已经有一些进展了。
+ - In Review: 代表这项 task 已经做完，需要 review。
+   - 例如，A 要修复 golang 这个包内的一些问题，在本地修复完之后向 `src-openeuler/golang` 提交了 PR。此时需要 golang sig 的 maintainer 们来审核，故此时需要将状态从 `In Progress` 修改为 `In Review`。待 PR 合并之后，再将状态设置为 `Done`。
  - Done: 代表这项 task 已经结束。
 
 ### Priority
@@ -33,7 +35,9 @@
 
 ## 主 Table 使用说明
 
-可以直接在 kanban 上添加 issue。点击 kanban 上的 `Add item`，即可创建一个 issue 草稿。想把这个 issue 草稿转换成完整 issue 的时候，可以单击刚创建的 issue 前方的下拉栏，然后选择 `Convert to issue`，选择 `oerv-team`。不要忘记详细在 issue 内写明 task 相关的说明。
+可以直接在 kanban 上添加 issue。我们推荐点击 kanban 上的 `+` 号，选择 `Create new issue` 即可创建一个 issue。其中 Repository 一栏按需选择，选择 `oerv-team` 后会有一些 Template 供选择。
+
+如果想快速创建 issue，可以直接在 Add item 处输入 issue 标题。想把这个 issue 草稿转换成完整 issue 的时候，可以单击刚创建的 issue 前方的下拉栏，然后选择 `Convert to issue`，选择 `oerv-team`。不要忘记详细在 issue 内写明 task 相关的说明。
 
 当自己想接受一个 task 的时候，需要修改 `Status` 为 `Todo`，并根据自己在什么 Team 来选择 `Team`。`Label` 同时也要将 `Unassigned` 更改成 `Assigned`，并在 `Assignee` 选择自己。后续根据情况再修改 `Status`。
 
