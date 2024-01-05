@@ -35,7 +35,9 @@
 
 ## 主 Table 使用说明
 
-可以直接在 kanban 上添加 issue。点击 kanban 上的 `Add item`，即可创建一个 issue 草稿。想把这个 issue 草稿转换成完整 issue 的时候，可以单击刚创建的 issue 前方的下拉栏，然后选择 `Convert to issue`，选择 `oerv-team`。不要忘记详细在 issue 内写明 task 相关的说明。
+可以直接在 kanban 上添加 issue。我们推荐点击 kanban 上的 `+` 号，选择 `Create new issue` 即可创建一个 issue。其中 Repository 一栏按需选择，选择 `oerv-team` 后会有一些 Template 供选择。
+
+如果想快速创建 issue，可以直接在 Add item 处输入 issue 标题。想把这个 issue 草稿转换成完整 issue 的时候，可以单击刚创建的 issue 前方的下拉栏，然后选择 `Convert to issue`，选择 `oerv-team`。不要忘记详细在 issue 内写明 task 相关的说明。
 
 当自己想接受一个 task 的时候，需要修改 `Status` 为 `Todo`，并根据自己在什么 Team 来选择 `Team`。`Label` 同时也要将 `Unassigned` 更改成 `Assigned`，并在 `Assignee` 选择自己。后续根据情况再修改 `Status`。
 
