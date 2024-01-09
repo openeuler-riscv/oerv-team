@@ -88,6 +88,16 @@ github:@TimePrinciple
 
 邮箱: ruoqing@isrc.iscas.ac.cn
 
+## 郝逸飞
+
+gitee:@feifei-fertilizer
+
+github:@FeiFei0827
+
+加入时间: 2024年1月1日
+
+邮箱: yifei.oerv@isrc.iscas.ac.cn
+
 # 项目实习生
 
 <!-- 项目实习生添加格式:
