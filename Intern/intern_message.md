@@ -105,7 +105,7 @@ github: @KingYen
 
 加入时间: 2024年1月24日
 
-邮箱: xxxxx.oerv@isrc.iscas.ac.cn
+邮箱: ruohan.oerv@isrc.iscas.ac.cn
 # 项目实习生
 
 <!-- 项目实习生添加格式:
