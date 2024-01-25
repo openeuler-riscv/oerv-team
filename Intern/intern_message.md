@@ -98,6 +98,16 @@ github:@FeiFei0827
 
 邮箱: yifei.oerv@isrc.iscas.ac.cn
 
+## 蒋文卓
+
+gitee:@jiang-yuhan885377
+
+github:@Beavercat7
+
+加入时间: 2024年1月25日
+
+邮箱:
+
 # 项目实习生
 
 <!-- 项目实习生添加格式:
