@@ -12,4 +12,4 @@
 |-------|-----------------|-------|
 | [rust-cbindgen](./2023.12.28-rust-cbindgen-王尧勇.md) | 王尧勇@TriangleABCD | 修包记录和提交时的一些错误记录 |
 | [wasmengine](./2023.12.29-WasmEngine-周锐发.md) | 周锐发@apodxx | 修复wasmengine在riscv不能构建的错误并记录 |
-||||
+|[ibheif](2023.1.4-ibheif-罗君.md)|罗君@Jer6y|修包记录和工作流思考|
