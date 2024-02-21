@@ -19,7 +19,7 @@ gitee:@wyxaihjr
 
 github:@wyxhjr
 
-加入时间：2023年12月4日
+加入时间：2023年11月27日
 
 邮箱: yuexiang.oerv@isrc.iscas.ac.cn
 
@@ -37,7 +37,7 @@ gitee:@menmazqj
 
 github:@menmazqj
 
-加入时间: 2023年12月18日
+加入时间: 2023年12月5日
 
 邮箱: qijia.oerv@isrc.iscas.ac.cn
 
@@ -64,7 +64,7 @@ gitee:@shafeipaozi
 
 github:@shafeipaozi
 
-加入时间：2023年12月26日
+加入时间：2023年12月5日
 
 邮箱: sunbo.oerv@isrc.iscas.ac.cn
 
@@ -74,7 +74,7 @@ gitee:@Jerry.c
 
 github:@Jer6y
 
-加入时间: 2023年12月30日
+加入时间: 2024年1月1日
 
 邮箱: luojun.oerv@isrc.iscas.ac.cn
 
