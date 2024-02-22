@@ -1,4 +1,4 @@
-# 日常实习生
+# 实习生信息
 
 <!-- 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -115,18 +115,3 @@ github: @Beavercat7
 加入时间: 2024年1月25日
 
 邮箱: wenzhuo.oerv@isrc.iscas.ac.cn
-
-# 项目实习生
-
-<!-- 项目实习生添加格式:
-
-## 真实姓名2
-gitee:@giteeid
-
-github:@githubid
-
-加入时间: xxxx年xx月xx日
-
-项目 issue:
-
--->
