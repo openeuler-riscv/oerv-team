@@ -53,5 +53,14 @@
 - 入门指引: [openEuler LLVM 平行宇宙计划·实习生参与指南](./guide_intern_llvm_parallel_universe.md)
 
 
+### 运营小队
+
+- 队长: 王经纬「员工」@Jingwiw
+- 主题: 围绕 oerv 宣发，推动 oerv 影响力
+- 准入门槛: 「雨水」
+- 限制人数: 5
+- 固定奖励：有，需要完成固定任务
+- 入门指引: 无
+
 
 
