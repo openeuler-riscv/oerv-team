@@ -115,3 +115,12 @@ github: @Beavercat7
 加入时间: 2024年1月25日
 
 邮箱: wenzhuo.oerv@isrc.iscas.ac.cn
+
+## 李金哲
+gitee: @tiberium
+
+github: @Mechanicu
+
+加入时间: 2024年2月27日
+
+邮箱: jinzhe.oerv@isrc.iscas.ac.cn
