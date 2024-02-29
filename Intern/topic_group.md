@@ -40,7 +40,7 @@
 - 准入门槛：「立春」
 - 限制人数：无
 - 固定奖励：有，需要完成固定任务
-- 入门指引: 
+- 入门指引: [测试小队工作指南](https://github.com/openEuler-RISCV/QA/blob/main/README.md)
 
 
 ### LLVM 小队
