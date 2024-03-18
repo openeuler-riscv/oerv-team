@@ -124,3 +124,12 @@ github: @Mechanicu
 加入时间: 2024年2月27日
 
 邮箱: jinzhe.oerv@isrc.iscas.ac.cn
+
+## 易新颢
+gitee: @TexasOct
+
+github: @TexasOct
+
+加入时间: 2024年3月14日
+
+邮箱: xinhao.oerv@isrc.iscas.ac.cn
