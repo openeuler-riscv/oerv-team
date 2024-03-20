@@ -142,3 +142,12 @@ github: @TalpsG
 加入时间: 2024年3月17日
 
 邮箱: weitao.oerv@isrc.iscas.ac.cn
+
+## 郭涵宇
+gitee: @coldrain608
+
+github: @H1yame
+
+加入时间: 2024年3月20日
+
+邮箱: hanyu.oerv@isrc.iscas.ac.cn
