@@ -5,7 +5,7 @@
 请仔细阅读 Intern/Intern-Transition.md
 -->
 
-## 周锐发
+## 周锐发 (离队)
 gitee:@apodxx
 
 github:@apodx
