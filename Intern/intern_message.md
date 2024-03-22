@@ -151,3 +151,12 @@ github: @H1yame
 加入时间: 2024年3月20日
 
 邮箱: hanyu.oerv@isrc.iscas.ac.cn
+
+## 尹健徽
+gitee: @Yinsist
+
+github: @Ywinh
+
+加入时间: 2024年3月22日
+
+邮箱: jianhui.oerv@isrc.iscas.ac.cn
