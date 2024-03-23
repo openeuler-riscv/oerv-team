@@ -1,11 +1,10 @@
 # 实习生信息
 
 <!-- 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 请仔细阅读 Intern/Intern-Transition.md
 -->
 
-## 周锐发
+## 周锐发 (离队)
 gitee:@apodxx
 
 github:@apodx
@@ -143,6 +142,7 @@ github: @TalpsG
 
 邮箱: weitao.oerv@isrc.iscas.ac.cn
 
+
 ## 赵骏飞
 gitee:
 
@@ -151,4 +151,33 @@ github: @Hajduk137
 加入时间: 2024年3月23日
 
 邮箱: junfei.oerv@isrc.iscas.ac.cn
+
+## 郭涵宇
+gitee: @coldrain608
+
+github: @H1yame
+
+加入时间: 2024年3月20日
+
+邮箱: hanyu.oerv@isrc.iscas.ac.cn
+
+
+## 尹健徽
+gitee: @Yinsist
+
+github: @Ywinh
+
+加入时间: 2024年3月22日
+
+邮箱: jianhui.oerv@isrc.iscas.ac.cn
+
+## 唐文荟
+gitee: @iGxnon
+
+github: @iGxnon
+
+加入时间: 2024年3月22日
+
+邮箱: wenhui.oerv@isrc.iscas.ac.cn
+
 
