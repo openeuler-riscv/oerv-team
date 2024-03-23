@@ -142,6 +142,16 @@ github: @TalpsG
 
 邮箱: weitao.oerv@isrc.iscas.ac.cn
 
+
+## 赵骏飞
+gitee:
+
+github: @Hajduk137
+
+加入时间: 2024年3月23日
+
+邮箱: junfei.oerv@isrc.iscas.ac.cn
+
 ## 郭涵宇
 gitee: @coldrain608
 
@@ -169,4 +179,5 @@ github: @iGxnon
 加入时间: 2024年3月22日
 
 邮箱: wenhui.oerv@isrc.iscas.ac.cn
+
 
