@@ -190,3 +190,11 @@ github: @YutingNie
 邮箱：yuting.oerv@isrc.iscas.ac.cn
 
 
+## 曾育群
+gitee: @maxorao
+
+github: @Maxorao
+
+加入时间：2024年3月26日
+
+邮箱：yuqun.oerv@isrc.iscas.ac.cn
