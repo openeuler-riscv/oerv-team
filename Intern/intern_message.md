@@ -180,4 +180,30 @@ github: @iGxnon
 
 邮箱: wenhui.oerv@isrc.iscas.ac.cn
 
+## 聂雨婷
+gitee: @yuting2023
 
+github: @YutingNie
+
+加入时间：2023年3月21日
+
+邮箱：yuting.oerv@isrc.iscas.ac.cn
+
+## 陈志康
+
+gitee: @ChenKang256
+
+github: @ChenKang256
+
+加入时间：2024年3月26日
+
+邮箱：zhikang.oerv@isrc.iscas.ac.cn
+
+## 曾育群
+gitee: @maxorao
+
+github: @Maxorao
+
+加入时间：2024年3月26日
+
+邮箱：yuqun.oerv@isrc.iscas.ac.cn
