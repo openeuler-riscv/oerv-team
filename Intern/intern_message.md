@@ -133,16 +133,6 @@ github: @TexasOct
 
 邮箱: xinhao.oerv@isrc.iscas.ac.cn
 
-## 王伟涛
-gitee: @SPLAT
-
-github: @TalpsG
-
-加入时间: 2024年3月17日
-
-邮箱: weitao.oerv@isrc.iscas.ac.cn
-
-
 ## 赵骏飞
 gitee:
 
