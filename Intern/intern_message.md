@@ -189,6 +189,15 @@ github: @YutingNie
 
 邮箱：yuting.oerv@isrc.iscas.ac.cn
 
+## 陈志康
+
+gitee: @ChenKang256
+
+github: @ChenKang256
+
+加入时间：2024年3月26日
+
+邮箱：zhikang.oerv@isrc.iscas.ac.cn
 
 ## 曾育群
 gitee: @maxorao
