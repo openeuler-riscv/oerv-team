@@ -207,3 +207,12 @@ github: @Maxorao
 加入时间：2024年3月26日
 
 邮箱：yuqun.oerv@isrc.iscas.ac.cn
+
+## 蔡嘉鑫
+gitee: @ccrysisa
+
+github: @ccrysisa
+
+加入时间: 2024年 3月29日
+
+邮箱: jiaxin.oerv@isrc.iscas.ac.cn 
