@@ -97,15 +97,6 @@ github:@FeiFei0827
 
 邮箱: yifei.oerv@isrc.iscas.ac.cn
 
-## 温若涵
-gitee: @KingYen
-
-github: @Wenrh2004
-
-加入时间: 2024年1月24日
-
-邮箱: ruohan.oerv@isrc.iscas.ac.cn
-
 ## 蒋文卓
 gitee: @jiang-yuhan885377
 
