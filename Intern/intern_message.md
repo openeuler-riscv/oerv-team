@@ -194,6 +194,16 @@ gitee: @ccrysisa
 
 github: @ccrysisa
 
-加入时间: 2024年 3月29日
+加入时间: 2024年3月29日
 
 邮箱: jiaxin.oerv@isrc.iscas.ac.cn 
+
+## 阮杨帆
+
+gitee: @yangfan-ruan
+
+github: @YangfanRuan
+
+加入时间: 2024年4月8日
+
+邮箱: yangfan.oerv@isrc.iscas.ac.cn
