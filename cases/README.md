@@ -15,3 +15,4 @@
 |[ibheif](2023.1.4-ibheif-罗君.md)|罗君@Jer6y|修包记录和工作流思考|
 |[uniproton](2024.1.31-uniproton-罗君.md)|罗君@Jer6y|uniproton移植记录以及移植每日跟踪|
 |[btop](./2024.1.30-btop-王跃翔.md)|王跃翔@wyxhjr|引入包/升级包流程和spec文件编写|
+| [experience-of-newbie](./2024.4.18-experience-of-newbie-聂雨婷.md) | 聂雨婷@YutingNie | 二阶段萌新踩坑记录(新人向) |
