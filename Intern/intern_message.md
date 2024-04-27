@@ -207,3 +207,13 @@ github: @YangfanRuan
 加入时间: 2024年4月8日
 
 邮箱: yangfan.oerv@isrc.iscas.ac.cn
+
+## 明岢岢
+
+gitee: @Jvle
+
+github: @Jvlegod
+
+加入时间: 2024年4月27日
+
+邮箱: xxxxx.oerv@isrc.iscas.ac.cn
