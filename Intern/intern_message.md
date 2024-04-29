@@ -216,4 +216,4 @@ github: @Jvlegod
 
 加入时间: 2024年4月27日
 
-邮箱: xxxxx.oerv@isrc.iscas.ac.cn
+邮箱: keke.oerv@isrc.iscas.ac.cn
