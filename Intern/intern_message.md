@@ -31,15 +31,6 @@ github:@nicole01101101zke
 
 邮箱： keer.oerv@isrc.iscas.ac.cn
 
-## 郑啟嘉
-gitee:@menmazqj
-
-github:@menmazqj
-
-加入时间: 2023年12月5日
-
-邮箱: qijia.oerv@isrc.iscas.ac.cn
-
 ## 王尧勇
 gitee:@wangyaoyong
 
