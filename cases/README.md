@@ -19,4 +19,4 @@
 | [experience-of-newbie](./2024.4.18-experience-of-newbie-聂雨婷.md) | 聂雨婷@YutingNie    | 二阶段萌新踩坑记录(新人向)                |
 | [pcre1](./2024.4.26-pcre1-jit-易新颢.md)                     | 易新颢@TexasOct     | pcre1 jit backport 移植工作过程思考       |
 | [mugen](./2024.5.10-mugen-testcase-陈志康.md)                | 陈志康@ChenKang256  | 对mugen失败用例修复的一些经验             |
-
+| [EBS-pr](./2024.5.13-EBS验证和pr问题-尹健徽.md)                  | 尹健徽@Ywinh        | EBS构建工程的使用以及pr相关问题           |
