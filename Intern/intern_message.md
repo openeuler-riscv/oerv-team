@@ -3,7 +3,6 @@
 <!-- 
 请仔细阅读 Intern/Intern-Transition.md
 -->
-
 ## 周锐发 (离队)
 gitee:@apodxx
 
@@ -208,6 +207,16 @@ github: @Jvlegod
 加入时间: 2024年4月27日
 
 邮箱: keke.oerv@isrc.iscas.ac.cn
+
+## 赵飞扬
+
+gitee:@April_Zhao
+
+github:@hehellooedas
+
+加入时间: 2024年5月22日
+
+邮箱: feiyang.oerv@isrc.iscas.ac.cn
 
 ## 郑丹龙
 
