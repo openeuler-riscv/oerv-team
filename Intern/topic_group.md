@@ -30,7 +30,7 @@
 - 准入门槛：「立春」
 - 限制人数：无
 - 固定奖励：无
-- 入门指引:  [RTOS小队工作指南](https://github.com/Jer6y/oerv-rtos/blob/main/doc/oerv_rtos_start.md)
+- 入门指引:  [RTOS小队工作指南](https://github.com/openEuler-RISCV/oerv-rtos)
 
 
 ### QA 小队
