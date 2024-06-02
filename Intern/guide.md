@@ -11,7 +11,7 @@ oerv 实习生一般以修复软件包[<sup>修包的一般流程是什么?</sup
 `pretask` 的目的是帮助实习生一起搭建工作环境，熟悉 oerv 的工作流程和合作方式。 `pretask` 分为三个步骤：
 
 - 任务一：通过 QEMU 仿真 RISC-V 环境并启动 openEuler RISC-V 系统，设法输出 neofetch 结果并截图提交
-- 任务二：在 openEuler RISC-V 系统上通过 obs 命令行工具 osc，从源代码构建 RISC-V 版本的 rpm 包，比如 `pcre2`。（提示首先需要在 openEuler的 OBS[<sup>什么是 OBS？</sup>](./FAQ.md#什么是-obs) 上注册账号 https://build.openeuler.openatom.cn/project/show/openEuler:Mainline:RISC-V）
+- 任务二：在 openEuler RISC-V 系统上通过 obs 命令行工具 osc，从源代码构建 RISC-V 版本的 rpm 包，比如 `pcre2`。（提示首先需要在 openEuler的 OBS[<sup>什么是 OBS？</sup>](./FAQ.md#什么是-obs) 上注册账号 <https://build.openeuler.openatom.cn/project/show/openEuler:Mainline:RISC-V）>
 - 任务三：尝试使用 qemu user & nspawn 或者 docker 加速完成任务二
 
 任务完成的方式为在本仓库提交 PR，并在 PR 的 *Conversation* 中附上任务完成截图，在 Intern/intern_message.md 的 *实习生信息* 下中加入自己的信息（pretask 考核的一部分）。这个阶段希望实习生养成积极提问和正确提问的习惯，并且构建属于自己的工作流和环境。
@@ -49,12 +49,15 @@ oerv 实习生一般以修复软件包[<sup>修包的一般流程是什么?</sup
 
 ### 兴趣小组
 
-会按照不同的主题，由「惊蛰」级实习生或者员工成立不同的兴趣小组。兴趣小组会有对应方向的入门文档和大佬带飞，但是不同的组会有自己的内部规则约定，详见 
-- [兴趣小组](topic_group.md).
+会按照不同的主题，由「惊蛰」级实习生或者员工成立不同的兴趣小组。兴趣小组会有对应方向的入门文档和大佬带飞，但是不同的组会有自己的内部规则约定，详见
+
+- [兴趣小组](https://github.com/openeuler-riscv/oerv-admin/groups.md).
 
 ## 定阶方式
+
 oerv 拥有一套独立的实习生定阶方式，这与实习生的资源获取能力，长期实习生评定和实习生转正条件直接相关。
 详见：
+
 - [OERV 实习生定阶体系](./intern_stage.md)
 
 ## 汇报方式
@@ -79,10 +82,9 @@ oerv 拥有一套独立的实习生定阶方式，这与实习生的资源获取
 5. 提交 PR 要遵守和 openEuler 社区一致的 *a simple commit* 原则，即修改完毕可供审阅的 PR 应当遵循 openEuler 社区的提交规范 squash commit 成一个，有明确有说服力理由的除外。
 6. 不同阶段的实习生没有明确的优劣之分，定阶的目的是为了对 oerv 贡献阶段。
 
-
 ## 参考资料
 
-1. https://gitee.com/openEuler/RISC-V
-2. https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md
-3. https://github.com/sparanoid/chinese-copywriting-guidelines
+1. <https://gitee.com/openEuler/RISC-V>
+2. <https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md>
+3. <https://github.com/sparanoid/chinese-copywriting-guidelines>
 4. [FAQ](./FAQ.md)

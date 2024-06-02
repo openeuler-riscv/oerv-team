@@ -24,7 +24,7 @@ OBS，全称 Open Build Service，是一个开源的软件构建和发布系统�
 
 ## 为什么会同时存在 tarsier OBS 和 openEuler OBS？
 
-openEuler OBS，网址为 https://build.openeuler.openatom.cn/, 是作为 openEuler 官方正式贡献的 OBS 网站，也是我们建议的贡献平台。tasier OBS 是软件所独立构建的 OBS，主要承载软件包的早期验证和后期独立的第三方项目。
+openEuler OBS，网址为 <https://build.openeuler.openatom.cn/>, 是作为 openEuler 官方正式贡献的 OBS 网站，也是我们建议的贡献平台。tasier OBS 是软件所独立构建的 OBS，主要承载软件包的早期验证和后期独立的第三方项目。
 
 ## 如果 PR 中有错误如何修改？
 
