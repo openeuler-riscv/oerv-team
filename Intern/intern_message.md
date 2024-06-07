@@ -242,3 +242,13 @@ github: @moumoulongs
 加入时间: 2024年5月22日
 
 邮箱: <danlong.oerv@isrc.iscas.ac.cn>
+
+## 黄丕松
+
+gitee: @cpntroller
+
+github: @1291945816
+
+加入时间: 2024年6月5日
+
+邮箱: <pisong.oerv@isrc.iscas.ac.cn>
