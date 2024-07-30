@@ -252,3 +252,13 @@ github: @1291945816
 加入时间: 2024年6月5日
 
 邮箱: <pisong.oerv@isrc.iscas.ac.cn>
+
+## 祖彬朔
+
+gitee: @zubinshuo2
+
+github: @IZUMI-Zu
+
+加入时间: 2024年7月31日
+
+邮箱: <binshuo.oerv@isrc.iscas.ac.cn>
