@@ -262,3 +262,14 @@ github: @IZUMI-Zu
 加入时间: 2024年7月31日
 
 邮箱: <binshuo.oerv@isrc.iscas.ac.cn>
+
+## 李英凯
+
+gitee：@liyingkai2023
+
+github：@YingkaiLi-VM
+
+加入时间：2024年8月27日
+
+邮箱：<yingkai.oerv@isrc.iscas.ac.cn>
+
