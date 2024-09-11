@@ -281,4 +281,4 @@ github：@gukj-spel
 
 加入时间：2024年9月5日
 
-邮箱：
+邮箱：<kaijie.oerv@isrc.iscas.ac.cn>
