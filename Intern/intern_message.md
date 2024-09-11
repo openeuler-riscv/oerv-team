@@ -273,3 +273,12 @@ github：@YingkaiLi-VM
 
 邮箱：<yingkai.oerv@isrc.iscas.ac.cn>
 
+## 邱文键
+
+gitee：@chebyshevtst
+
+github：@Thomas134
+
+加入时间：2024年9月12日
+
+邮箱：
