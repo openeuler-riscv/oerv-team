@@ -273,6 +273,16 @@ github：@YingkaiLi-VM
 
 邮箱：<yingkai.oerv@isrc.iscas.ac.cn>
 
+## 顾凯杰
+
+gitee：@gukaijie
+
+github：@gukj-spel
+
+加入时间：2024年9月5日
+
+邮箱：<kaijie.oerv@isrc.iscas.ac.cn>
+
 ## 邱文键
 
 gitee：@chebyshevtst
@@ -281,4 +291,4 @@ github：@Thomas134
 
 加入时间：2024年9月12日
 
-邮箱：
+邮箱：<wenjian.oerv@isrc.iscas.ac.cn>
