@@ -292,3 +292,13 @@ github：@Thomas134
 加入时间：2024年9月12日
 
 邮箱：<wenjian.oerv@isrc.iscas.ac.cn>
+
+## 林子予
+
+gitee: @Suyun114
+
+github: @Suyun114
+
+加入时间: 2024年10月30日
+
+邮箱: <ziyu.oerv@isrc.iscas.ac.cn>
