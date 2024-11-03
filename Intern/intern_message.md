@@ -292,3 +292,13 @@ github：@Thomas134
 加入时间：2024年9月12日
 
 邮箱：<wenjian.oerv@isrc.iscas.ac.cn>
+
+## 张宏涛
+
+gitee：@KrealHtz
+
+github：@KrealHtz
+
+加入时间：2024年10月26日
+
+邮箱：<.oerv@isrc.iscas.ac.cn>
