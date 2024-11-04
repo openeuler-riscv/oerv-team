@@ -292,3 +292,13 @@ github：@Thomas134
 加入时间：2024年9月12日
 
 邮箱：<wenjian.oerv@isrc.iscas.ac.cn>
+
+## 邱志磊
+
+gitee：@zhilei2023
+
+github：@QIUZHILEI
+
+加入时间：2024年10月26日
+
+邮箱：<zhilei.oerv@isrc.iscas.ac.cn>
