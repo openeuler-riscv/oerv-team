@@ -314,3 +314,12 @@ github：@QIUZHILEI
 
 邮箱：<zhilei.oerv@isrc.iscas.ac.cn>
 
+## 张宏涛
+
+gitee：@KrealHtz
+
+github：@KrealHtz
+
+加入时间：2024年10月26日
+
+邮箱：<hongtao.oerv@isrc.iscas.ac.cn>
