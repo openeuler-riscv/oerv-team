@@ -333,3 +333,13 @@ github: @Inversewing
 加入时间: 2024年12月12日
 
 邮箱: <chicheng.oerv@isrc.iscas.ac.cn> 
+
+## 施安吉
+
+gitee: @Shianji
+
+github: @Shianji
+
+加入时间: 2024年12月12日
+
+邮箱: <Shianji.oerv@isrc.iscas.ac.cn>
