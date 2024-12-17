@@ -323,3 +323,13 @@ github：@KrealHtz
 加入时间：2024年10月26日
 
 邮箱：<hongtao.oerv@isrc.iscas.ac.cn>
+
+## 袁驰程
+
+gitee: @Gensou-Link
+
+github: @Inversewing
+
+加入时间: 2024年12月12日
+
+邮箱: <chicheng.oerv@isrc.iscas.ac.cn> 
