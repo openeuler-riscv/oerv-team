@@ -342,4 +342,4 @@ github: @Shianji
 
 加入时间: 2024年12月12日
 
-邮箱: <Shianji.oerv@isrc.iscas.ac.cn>
+邮箱: <anji.oerv@isrc.iscas.ac.cn>
