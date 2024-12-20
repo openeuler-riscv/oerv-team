@@ -333,3 +333,15 @@ github: @Inversewing
 加入时间: 2024年12月12日
 
 邮箱: <chicheng.oerv@isrc.iscas.ac.cn> 
+
+
+## 谭明乐
+
+gitee:@tan-mingle
+
+github:@paithfinder
+
+加入时间：2024年12月16日
+
+邮箱：<mingle.oerv@isrc.iscas.ac.cn>
+
