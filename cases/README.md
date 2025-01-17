@@ -22,3 +22,4 @@
 | [EBS-pr](./2024.5.13-EBS验证和pr问题-尹健徽.md)              | 尹健徽@Ywinh        | EBS构建工程的使用以及pr相关问题               |
 | [mugen细节补充](./2024.5.20-mugen细节补充-郝逸飞.md)         | 郝逸飞@FeiFei0827   | mugen测试的一些细节补充                       |
 | [riscv linux mm : setupvm](2024.10.16-linux-setupvm-罗君.md) | 罗君@Jer6y          | 介绍 linux 6.10 中 MM 管理与rv 页表有关的内容 |
+| [eur](2025.1.17-eur-林子予.md)                               | 林子予@Suyun114     | 通过 EUR 向 openEuler 引入软件包              |
