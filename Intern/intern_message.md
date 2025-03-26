@@ -345,5 +345,12 @@ github: @Shianji
 
 邮箱: <anji.oerv@isrc.iscas.ac.cn>
 
+## 左敬源
 
+gitee: @StrangeZuo
 
+github: @StrangeZuo
+
+加入时间: 2025年3月25日
+
+邮箱: <jingyuan.oerv@isrc.iscas.ac.cn>
