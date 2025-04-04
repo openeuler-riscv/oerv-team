@@ -355,6 +355,16 @@ github: @StrangeZuo
 
 邮箱: <jingyuan.oerv@isrc.iscas.ac.cn>
 
+## 李子建
+
+gitee: @zijianli1234
+
+github: @zijianli1234
+
+加入时间: 2025年3月31日
+
+邮箱: <zijian.oerv@isrc.iscas.ac.cn>
+
 ## 文森林
 
 gitee: @yymk
