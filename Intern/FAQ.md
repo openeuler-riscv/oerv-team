@@ -4,7 +4,7 @@ FAQ 长期更新，有好的问题欢迎及时提交 PR。
 
 ## 修包的一般流程是什么？
 
-1. 通过 issue 或者观察 OBS 确认构建失败的软件包，当前重点在 `openEuler:Mainline:RISC-V`
+1. 通过 issue 或者观察 OBS/Eulermaker 确认构建失败的软件包。
 2. 初步分析错误原因，并在工作群进行确认
 3. 使用 osc 工具在本地修复构建，由于构建资源的问题，不用分支 `home` 仓库，直接拉取主线仓库。
 4. 判断是否需要提交 PR，如遇到了类似超时需要重新构建的问题，直接向 mentor 反馈，也可以得到少量薪资评价。
@@ -22,9 +22,13 @@ FAQ 长期更新，有好的问题欢迎及时提交 PR。
 
 OBS，全称 Open Build Service，是一个开源的软件构建和发布系统，主要用于构建和分发软件包，支持多种操作系统和硬件架构。 openEuler 的 OBS 系统分支于 openSUSE，承载了 openEuler 社区所有公开发布的软件包的构建和管理。 osc 是 OBS 的命令行客户端，可以帮助开发者在本地拉取 OBS 软件环境进行构建。有关于 OBS 使用的问题建议及时在工作群提问。
 
-## 为什么会同时存在 tarsier OBS 和 openEuler OBS？
+tasier OBS 是软件所独立构建的 OBS，主要承载软件包的早期验证和后期独立的第三方项目，网址为 <https://build.tarsier-infra.isrc.ac.cn/>。
 
-openEuler OBS，网址为 <https://build.openeuler.openatom.cn/>, 是作为 openEuler 官方正式贡献的 OBS 网站，也是我们建议的贡献平台。tasier OBS 是软件所独立构建的 OBS，主要承载软件包的早期验证和后期独立的第三方项目。
+## 什么是 EulerMaker？
+
+EulerMaker 构建系统是一款软件包构建系统，完成源码到二进制软件包的构建，并支持开发者通过搭积木方式，组装和定制出适合自己需求的场景化OS。主要提供增量/全量构建，分层定制与镜像定制的能力。
+
+EulerMaker 是 openEuler 社区目前的包构建系统。
 
 ## 如果 PR 中有错误如何修改？
 
