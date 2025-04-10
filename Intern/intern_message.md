@@ -377,9 +377,9 @@ github: @yqthz
 
 ## 张恒宇
 
-gitee: @HernySheep
+gitee: @HenrySheep
 
-github: @HernySheep
+github: @HenrySheep
 
 加入时间: 2025年4月3日
 
