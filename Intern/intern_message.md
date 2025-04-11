@@ -374,3 +374,12 @@ github: @yqthz
 加入时间: 2025年3月24日
 
 邮箱: <senlin.oerv@isrc.iscas.ac.cn>
+
+## 贾林
+gitee: @yyjeqhc
+
+github: @yyjeqhc
+
+加入时间: 2025年4月11日
+
+邮箱: jialin.oerv@isrc.iscas.ac.cn 
