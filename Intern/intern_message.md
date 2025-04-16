@@ -375,6 +375,16 @@ github: @yqthz
 
 邮箱: <senlin.oerv@isrc.iscas.ac.cn>
 
+## 张天泽
+
+gitee: @delta-gitee
+
+github: @Delta-in-hub
+
+加入时间: 2025年4月7日
+
+邮箱: <tianze.oerv@isrc.iscas.ac.cn>
+
 
 ## 张恒宇
 
