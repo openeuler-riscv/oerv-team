@@ -375,6 +375,7 @@ github: @yqthz
 
 邮箱: <senlin.oerv@isrc.iscas.ac.cn>
 
+
 ## 贾林
 gitee: @yyjeqhc
 
@@ -383,3 +384,14 @@ github: @yyjeqhc
 加入时间: 2025年4月11日
 
 邮箱: jialin.oerv@isrc.iscas.ac.cn 
+
+## 惠钰博
+
+gitee: @sudoavocado
+
+github: @ChestNutICE
+
+加入时间: 2025年4月11日
+
+邮箱: <yubo.oerv@isrc.iscas.ac.cn>
+
