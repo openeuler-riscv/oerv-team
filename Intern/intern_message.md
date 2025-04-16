@@ -373,6 +373,17 @@ github: @yqthz
 
 邮箱: <senlin.oerv@isrc.iscas.ac.cn>
 
+
+## 陈冬燕
+
+gitee: @Telgome
+
+github: @Telgome
+
+加入时间: 2025年4月1日
+
+邮箱: <dongyan.oerv@isrc.iscas.ac.cn>
+
 ## 张天泽
 
 gitee: @delta-gitee
