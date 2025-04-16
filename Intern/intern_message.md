@@ -293,7 +293,6 @@ github：@Thomas134
 
 邮箱：<wenjian.oerv@isrc.iscas.ac.cn>
 
-
 ## 林子予
 
 gitee: @Suyun114
@@ -332,8 +331,7 @@ github: @Inversewing
 
 加入时间: 2024年12月12日
 
-邮箱: <chicheng.oerv@isrc.iscas.ac.cn> 
-
+邮箱: <chicheng.oerv@isrc.iscas.ac.cn>
 
 ## 施安吉
 
@@ -385,7 +383,6 @@ github: @Delta-in-hub
 
 邮箱: <tianze.oerv@isrc.iscas.ac.cn>
 
-
 ## 张恒宇
 
 gitee: @HenrySheep
@@ -396,15 +393,15 @@ github: @HenrySheep
 
 邮箱: <hengyu.oerv@isrc.iscas.ac.cn>
 
-
 ## 贾林
+
 gitee: @yyjeqhc
 
 github: @yyjeqhc
 
 加入时间: 2025年4月11日
 
-邮箱: jialin.oerv@isrc.iscas.ac.cn 
+邮箱: <jialin.oerv@isrc.iscas.ac.cn>
 
 ## 惠钰博
 
@@ -416,3 +413,12 @@ github: @ChestNutICE
 
 邮箱: <yubo.oerv@isrc.iscas.ac.cn>
 
+## 姚鑫鹏
+
+gitee: @ayostl
+
+github: @ayostl
+
+加入时间: 2025年4月14日
+
+邮箱: <xinpeng.oerv@isrc.iscas.ac.cn>
