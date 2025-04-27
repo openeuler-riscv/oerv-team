@@ -433,3 +433,13 @@ github: @ayostl
 加入时间: 2025年4月14日
 
 邮箱: <xinpeng.oerv@isrc.iscas.ac.cn>
+
+## 杜芳洲
+
+gitee: @fhowq
+
+github: @e3u9h
+
+加入时间：2025年4月27日
+
+邮箱：<fangzhou.oerv@isrc.iscas.ac.cn>
