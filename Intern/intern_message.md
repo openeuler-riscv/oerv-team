@@ -454,3 +454,13 @@ github: @JoeyLYL
 
 邮箱: <yilin.oerv@isrc.iscas.ac.cn> 
 
+## 刘颜铭
+
+gitee: @liuym2022
+
+github: @liu20222
+
+加入时间: 2025年4月29日
+
+邮箱:<yanming.oerv@isrc.iscas.ac.cn>
+
