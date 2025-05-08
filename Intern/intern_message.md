@@ -443,3 +443,14 @@ github: @e3u9h
 加入时间：2025年4月27日
 
 邮箱：<fangzhou.oerv@isrc.iscas.ac.cn>
+
+## 李沂林
+
+gitee: @JoeyLYL
+
+github: @JoeyLYL
+
+加入时间: 2025年4月21日
+
+邮箱: <yilin.oerv@isrc.iscas.ac.cn> 
+
