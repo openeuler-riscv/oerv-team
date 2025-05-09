@@ -434,6 +434,36 @@ github: @ayostl
 
 邮箱: <xinpeng.oerv@isrc.iscas.ac.cn>
 
+## 杜芳洲
+
+gitee: @fhowq
+
+github: @e3u9h
+
+加入时间：2025年4月27日
+
+邮箱：<fangzhou.oerv@isrc.iscas.ac.cn>
+
+## 李沂林
+
+gitee: @JoeyLYL
+
+github: @JoeyLYL
+
+加入时间: 2025年4月21日
+
+邮箱: <yilin.oerv@isrc.iscas.ac.cn> 
+
+## 刘颜铭
+
+gitee: @liuym2022
+
+github: @liu20222
+
+加入时间: 2025年4月29日
+
+邮箱:<yanming.oerv@isrc.iscas.ac.cn>
+
 ## 鲁邦彦
 
 gitee: @alu-cg
@@ -442,4 +472,4 @@ github: @alu-cg
 
 加入时间：2025年4月30日
 
-邮箱：
+邮箱: yanbang.oerv@isrc.iscas.ac.cn
