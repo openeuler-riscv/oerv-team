@@ -363,17 +363,6 @@ github: @zijianli1234
 
 邮箱: <zijian.oerv@isrc.iscas.ac.cn>
 
-## 文森林
-
-gitee: @yymk
-
-github: @yqthz
-
-加入时间: 2025年3月24日
-
-邮箱: <senlin.oerv@isrc.iscas.ac.cn>
-
-
 ## 陈冬燕
 
 gitee: @Telgome
