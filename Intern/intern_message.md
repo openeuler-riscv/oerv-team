@@ -403,16 +403,6 @@ github: @yyjeqhc
 
 邮箱: <jialin.oerv@isrc.iscas.ac.cn>
 
-## 惠钰博
-
-gitee: @sudoavocado
-
-github: @ChestNutICE
-
-加入时间: 2025年4月11日
-
-邮箱: <yubo.oerv@isrc.iscas.ac.cn>
-
 ## 姚鑫鹏
 
 gitee: @ayostl
