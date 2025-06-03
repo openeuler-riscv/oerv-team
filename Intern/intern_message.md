@@ -443,3 +443,12 @@ github: @liu20222
 
 邮箱:<yanming.oerv@isrc.iscas.ac.cn>
 
+## 鲁邦彦
+
+gitee: @alu-cg
+
+github: @alu-cg
+
+加入时间：2025年4月30日
+
+邮箱: yanbang.oerv@isrc.iscas.ac.cn
