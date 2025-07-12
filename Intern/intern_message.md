@@ -452,3 +452,12 @@ github: @alu-cg
 加入时间：2025年4月30日
 
 邮箱: yanbang.oerv@isrc.iscas.ac.cn
+## 党子立
+
+gitee: @lengmuzhaxi
+
+github: @lengmuzhaxi
+
+加入时间：2025年7月11日
+
+邮箱: zili.oerv@isrc.iscas.ac.cn
