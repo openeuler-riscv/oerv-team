@@ -443,6 +443,17 @@ github: @alu-cg
 
 邮箱: yanbang.oerv@isrc.iscas.ac.cn
 
+## 党子立
+
+gitee: @lengmuzhaxi
+
+github: @lengmuzhaxi
+
+加入时间：2025年7月11日
+
+邮箱: zili.oerv@isrc.iscas.ac.cn
+
+
 ## 常旭海
 
 gitee: @MahnoKropotkinov
@@ -452,3 +463,4 @@ github: @MahnoKropotkinvich
 加入时间： 2025年7月7日
 
 邮箱：<xuhai.oerv@isrc.iscas.ac.cn>
+
