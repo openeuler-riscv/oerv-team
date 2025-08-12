@@ -464,3 +464,12 @@ github: @MahnoKropotkinvich
 
 邮箱：<xuhai.oerv@isrc.iscas.ac.cn>
 
+
+## 张新宇
+
+gitee: @westtide
+
+github: @westtide
+
+加入时间： 2025年7月22日
+
