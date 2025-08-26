@@ -464,3 +464,13 @@ github: @MahnoKropotkinvich
 
 邮箱：<xuhai.oerv@isrc.iscas.ac.cn>
 
+## 邵卓炜 
+
+gitee: @zhuoweishao
+
+github: @Shao-ZW
+
+加入时间：2025年8月4日
+
+邮箱：<zhuowei.oerv@isrc.iscas.ac.cn>
+
