@@ -474,3 +474,11 @@ github: @Shao-ZW
 
 邮箱：<zhuowei.oerv@isrc.iscas.ac.cn>
 
+## 杨诗睿
+gitee:@SherryShirui
+
+github：@Sherry-Shirui
+
+加入时间：2025年10月13日
+
+邮箱：
