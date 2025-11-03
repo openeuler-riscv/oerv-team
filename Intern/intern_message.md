@@ -474,6 +474,28 @@ github: @Shao-ZW
 
 邮箱：<zhuowei.oerv@isrc.iscas.ac.cn>
 
+
+## 龚志乐
+gitee: @BI1XJT
+
+github: @goodspeed34
+
+加入时间：2025年10月21日
+
+邮箱：<gongzl.oerv@isrc.iscas.ac.cn>
+
+
+## 黄楚浩
+
+gitee: @Wb_Alpha
+
+github: @Wb-Alpha
+
+加入时间： 2025年10月9日
+
+邮箱：<chuhao.oerv@isrc.iscas.ac.cn>
+
+
 ## 杨诗睿
 gitee:@SherryShirui
 
