@@ -476,7 +476,6 @@ github: @Shao-ZW
 
 
 ## 龚志乐
-
 gitee: @BI1XJT
 
 github: @goodspeed34
@@ -496,3 +495,12 @@ github: @Wb-Alpha
 
 邮箱：<chuhao.oerv@isrc.iscas.ac.cn>
 
+
+## 杨诗睿
+gitee:@SherryShirui
+
+github：@Sherry-Shirui
+
+加入时间：2025年10月13日
+
+邮箱：<shirui.oerv@isrc.iscas.ac.cn>
