@@ -504,3 +504,13 @@ github：@Sherry-Shirui
 加入时间：2025年10月13日
 
 邮箱：<shirui.oerv@isrc.iscas.ac.cn>
+
+## 管理
+
+gitee:@Leetfs
+
+github：@Leetfs
+
+加入时间：2025年12月13日
+
+邮箱：
