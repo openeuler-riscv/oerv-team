@@ -514,3 +514,14 @@ github: @purofle
 加入时间：2025年12月4日
 
 邮箱：
+
+
+## 管理
+
+gitee: @Leetfs
+
+github: @Leetfs
+
+加入时间：2025年12月29日
+
+邮箱：<guanli.oerv@isrc.iscas.ac.cn>
