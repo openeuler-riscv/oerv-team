@@ -24,7 +24,7 @@ github: @githubid
 4. 关于邮箱:
 
     - 邮箱名称：先空白，等待老师分配之后，用 squash 的方式更新 pr，作为考察 git 基本功的方式
-    - 邮箱初始密码统一为：【oerv-Intern2023】分配得到邮箱后请尽快更换密码
+    - 邮箱初始密码统一为：【OERV-Internal2023】分配得到邮箱后请尽快更换密码
     - 邮箱网站：<https://mail.cstnet.cn/>
     - 请注意将 Gitee 主邮件改为软件所邮箱，并且签署企业 CLA
     - 日常贡献时需要在 changelog 中使用软件所邮箱
