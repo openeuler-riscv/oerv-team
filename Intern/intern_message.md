@@ -515,6 +515,7 @@ github: @purofle
 
 邮箱：
 
+
 ## 周子涛
 gitee: @catherina0
 
@@ -522,4 +523,15 @@ github: @catherina0
 
 加入时间： 2026年1月12日
 
-邮箱：
+邮箱：<zitao.oerv@isrc.iscas.ac.cn>
+
+
+## 管理
+
+gitee: @Leetfs
+
+github: @Leetfs
+
+加入时间：2025年12月29日
+
+邮箱：<guanli.oerv@isrc.iscas.ac.cn>
