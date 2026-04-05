@@ -413,16 +413,6 @@ github: @e3u9h
 
 邮箱：<fangzhou.oerv@isrc.iscas.ac.cn>
 
-## 李沂林
-
-gitee: @JoeyLYL
-
-github: @JoeyLYL
-
-加入时间: 2025年4月21日
-
-邮箱: <yilin.oerv@isrc.iscas.ac.cn> 
-
 ## 刘颜铭
 
 gitee: @liuym2022
