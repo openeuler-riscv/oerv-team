@@ -537,3 +537,11 @@ github: @catherina0
 邮箱：<zitao.oerv@isrc.iscas.ac.cn>
 
 
+## 徐宇成
+gitee: @kimmyxyc
+
+github: @KimmyXYC
+
+加入时间: 2026年3月19日
+
+邮箱: <yucheng.oerv@isrc.iscas.ac.cn>
