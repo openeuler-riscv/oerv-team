@@ -545,3 +545,12 @@ github: @inchinaxiaofeng
 加入时间: 2026年3月9日
 
 邮箱: <yuchi.oerv@isrc.iscas.ac.cn>
+
+## 孙宇航 
+gitee: @syhhyl
+
+github: @syhhyl
+
+加入时间: 2026年5月1日
+
+邮箱:
