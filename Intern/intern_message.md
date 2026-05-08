@@ -536,4 +536,12 @@ github: @catherina0
 
 邮箱：<zitao.oerv@isrc.iscas.ac.cn>
 
+## 张宇驰
 
+gitee: @inchinaxiaofeng
+
+github: @inchinaxiaofeng
+
+加入时间: 2026年3月9日
+
+邮箱: <yuchi.oerv@isrc.iscas.ac.cn>
