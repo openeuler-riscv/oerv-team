@@ -536,6 +536,15 @@ github: @catherina0
 
 邮箱：<zitao.oerv@isrc.iscas.ac.cn>
 
+## 张铭涛
+gitee: @stevezmtstudios
+
+github: @stevezmtstudios
+
+加入时间: 2026年5月7日
+
+邮箱: 
+
 ## 张宇驰
 
 gitee: @inchinaxiaofeng
